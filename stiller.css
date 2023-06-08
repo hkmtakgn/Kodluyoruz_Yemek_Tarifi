@@ -1,0 +1,67 @@
+/* CSS Document */
+.p1{
+	
+	width: 800px;
+	height: 100px;
+	color:orange;
+	float: left;
+	margin-left: 10px;
+	margin-top: 7px;
+	margin-bottom: 69px;
+	font-size: 24px;
+}
+
+img{
+	float: left;
+}
+
+.section1{
+	width: 600px;
+	height: 990px;
+	background: #E87C7E;
+	position: absolute;
+	margin:20px;
+	float: left;
+	top: 500px;
+}
+
+.section2{
+	width: 600px;
+	height: 990px;
+	background: #E87C7E;
+	position: absolute;
+	margin:20px;
+	top: 500px;
+	left: 700px;
+	
+}
+
+
+li{
+	
+	font-weight: 800;
+	font-size: 33px;
+}
+
+
+.hr1{ 
+  
+    border:         none;
+    border-left:    1px solid black;
+    height:         175vh;
+    width:          1px; 
+	float: center;
+	position: relative;
+	margin-top: 50px;
+}
+
+section ul{
+	list-style: none;
+}
+
+footer{
+	border: solid;
+	text-align: center;
+	border-radius: 20px;
+	border-color: darkorange;
+}
